@@ -33,7 +33,7 @@ namespace testWin1
 
         private void button3_Click(object sender, EventArgs e)
         {
-            MessageBox.Show("1234");
+            MessageBox.Show("12345");
         }
 
 

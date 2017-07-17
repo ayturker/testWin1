@@ -59,7 +59,7 @@
             this.button3.Name = "button3";
             this.button3.Size = new System.Drawing.Size(150, 55);
             this.button3.TabIndex = 1;
-            this.button3.Text = "1234";
+            this.button3.Text = "12345";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
             // 
